@@ -1,0 +1,18 @@
+--- #installing nginx
+
+- hosts: all
+  user: root
+  connection: ssh
+  become: yes
+  gather_facts: yes
+  tasks:
+  - name: installing nginx package
+    action: yum name=nginx state=latest
+  - name: restarting nginx service
+    service: name=nginx state=restarted
+  - name: enabling nginx service after service reboot
+    service: name=nginx enabled=yes
+    
+
+     
+

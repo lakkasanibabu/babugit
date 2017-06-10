@@ -1,0 +1,13 @@
+---
+
+- hosts: localhost
+  user: root
+  connection: ssh
+  gather_facts: yes
+  become: yes
+  tasks:
+# - name: logging history
+#   command: history > /root/logs/history.log
+  - name: archiveing history log file
+    environment:
+    archive: path=/root/roles/webserver.yml format=zip

@@ -1,0 +1,50 @@
+total 24
+drwxr-xr-x. 20 root root 4096 May 21 10:18 .
+dr-xr-xr-x. 17 root root 4096 May 21 09:26 ..
+drwxr-xr-x.  2 root root    6 Mar 10  2016 adm
+drwxr-xr-x.  8 root root   83 May 21 10:18 cache
+drwxr-xr-x.  3 root root   32 Mar 27 21:07 db
+drwxr-xr-x.  3 root root   17 Mar 10  2016 empty
+drwxr-xr-x.  2 root root    6 Mar 10  2016 games
+drwxr-xr-x.  2 root root    6 Mar 10  2016 gopher
+drwxr-xr-x.  3 root root   17 Nov  2  2016 kerberos
+drwxr-xr-x. 32 root root 4096 May 21 10:18 lib
+drwxr-xr-x.  2 root root    6 Mar 10  2016 local
+lrwxrwxrwx.  1 root root   11 Mar 27 21:03 lock -> ../run/lock
+drwxr-xr-x.  9 root root 4096 May 21 09:26 log
+lrwxrwxrwx.  1 root root   10 Mar 27 21:07 mail -> spool/mail
+drwxr-xr-x.  2 root root    6 Mar 10  2016 nis
+drwxr-xr-x.  2 root root    6 Mar 10  2016 opt
+drwxr-xr-x.  2 root root    6 Mar 10  2016 preserve
+lrwxrwxrwx.  1 root root    6 Mar 27 21:03 run -> ../run
+drwxr-xr-x.  8 root root   81 Mar 10  2016 spool
+drwxrwxrwt.  4 root root 4096 May 21 10:19 tmp
+-rw-r--r--.  1 root root  163 Mar 27 21:07 .updated
+drwxr-xr-x.  3 root root   16 Mar 27 21:03 var
+drwxr-xr-x.  4 root root   31 May 21 10:18 www
+drwxr-xr-x.  2 root root    6 Mar 10  2016 yp
+total 24
+drwxr-xr-x. 20 root root 4096 May 21 10:18 .
+dr-xr-xr-x. 17 root root 4096 May 21 09:26 ..
+drwxr-xr-x.  2 root root    6 Mar 10  2016 adm
+drwxr-xr-x.  8 root root   83 May 21 10:18 cache
+drwxr-xr-x.  3 root root   32 Mar 27 21:07 db
+drwxr-xr-x.  3 root root   17 Mar 10  2016 empty
+drwxr-xr-x.  2 root root    6 Mar 10  2016 games
+drwxr-xr-x.  2 root root    6 Mar 10  2016 gopher
+drwxr-xr-x.  3 root root   17 Nov  2  2016 kerberos
+drwxr-xr-x. 32 root root 4096 May 21 10:18 lib
+drwxr-xr-x.  2 root root    6 Mar 10  2016 local
+lrwxrwxrwx.  1 root root   11 Mar 27 21:03 lock -> ../run/lock
+drwxr-xr-x.  9 root root 4096 May 21 09:26 log
+lrwxrwxrwx.  1 root root   10 Mar 27 21:07 mail -> spool/mail
+drwxr-xr-x.  2 root root    6 Mar 10  2016 nis
+drwxr-xr-x.  2 root root    6 Mar 10  2016 opt
+drwxr-xr-x.  2 root root    6 Mar 10  2016 preserve
+lrwxrwxrwx.  1 root root    6 Mar 27 21:03 run -> ../run
+drwxr-xr-x.  8 root root   81 Mar 10  2016 spool
+drwxrwxrwt.  4 root root 4096 May 21 10:19 tmp
+-rw-r--r--.  1 root root  163 Mar 27 21:07 .updated
+drwxr-xr-x.  3 root root   16 Mar 27 21:03 var
+drwxr-xr-x.  4 root root   31 May 21 10:18 www
+drwxr-xr-x.  2 root root    6 Mar 10  2016 yp

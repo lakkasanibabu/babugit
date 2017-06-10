@@ -1,0 +1,15 @@
+--- #loop playbook example
+- hosts: all
+  user: root
+  become: yes
+  connection: ssh
+  gather_facts: no
+  tasks:
+  - name: add a lsit of users
+    user: name={{ item }} state=absent password=pass@123 group=wheel expires=06052019
+    with_items:
+       - india
+       - australia
+       - ireland
+       - england
+       - netherlands
